@@ -25,5 +25,4 @@ Software engineer with 2 years in Blockchain - Web applications, proficient in G
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Java" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Java" width="40" height="40"/>&nbsp;
 </div>
